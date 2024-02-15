@@ -6,12 +6,12 @@
 
 Suppose you are given the following requirements for a simple database for the National Hockey League (NHL):
 
-a. The NHL has many teams.
-b. Each team has a name, a city, a coach, a captain, and a set of players.
-c. Each player belongs to only one team.
-d. Each player has a name, a position (such as left wing or goalie), a skill level, and a set of injury records.
-e. A team captain is also a player.
-f. A game is played between two teams (referred to as host_team and guest_team) and has a date (such as May 11th, 1999) and a score (such as 4 to 2).
+a.The NHL has many teams.
+b.Each team has a name, a city, a coach, a captain, and a set of players.
+c.Each player belongs to only one team.
+d.Each player has a name, a position (such as left wing or goalie), a skill level, and a set of injury records.
+e.A team captain is also a player.
+f.A game is played between two teams (referred to as host_team and guest_team) and has a date (such as May 11th, 1999) and a score (such as 4 to 2).
 
 Construct a clean and concise ER diagram for the NHL database.
 
